@@ -1,5 +1,5 @@
 ## 利用ALBERT+LSTM模型实现序列标注算法
-
+## 博客：https://blog.csdn.net/weixin_42691585/article/details/107424028
 ### 数据集
 
 1. 人民日报语料集，实体为人名、地名、组织机构名，数据集位于data/example.*;
